@@ -1,1 +1,2 @@
 # hello-world
+i would like to gain confidence in my front end design at the end of this course. I want to be able to produce professional-looking designs with the ability to accomodate mobile and other devices without the website design breaking as well.
